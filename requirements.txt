@@ -1,0 +1,5 @@
+Package    Version
+---------- -------
+pip        25.0.1
+setuptools 76.0.0
+wheel      0.45.1
